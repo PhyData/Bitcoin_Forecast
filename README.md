@@ -8,4 +8,6 @@ By taking these exogenous variables into account, we aim to refine our forecasts
 
 Created by: **PhyData Research Group**
 
-Languaje: Spanish
+References
+
+[1] Bitcoin price prediction with Python, when the past does not repeat itself by Joaquín Amat Rodrigo and Javier Escobar Ortiz, available under a Attribution 4.0 International (CC BY 4.0) at https://www.cienciadedatos.net/documentos/py41-forecasting-cryptocurrency-bitcoin-machine-learning-python.html
