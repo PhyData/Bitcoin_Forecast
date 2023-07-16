@@ -7,4 +7,5 @@ During our analysis, we recognized the importance of incorporating exogenous var
 By taking these exogenous variables into account, we aim to refine our forecasts and achieve a more precise estimation of Bitcoin's closing price.        
 
 Created by: **PhyData Research Group**
+
 Languaje: Spanish
