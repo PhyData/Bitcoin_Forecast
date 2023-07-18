@@ -6,8 +6,6 @@ During the analysis, we recognized the importance of incorporating exogenous var
 
 By taking these exogenous variables into account, we aim to refine our forecasts and achieve a more precise estimation of Bitcoin's closing price.
 
-Finally, we (**What we add to the project**)
-
 Created by: **PhyData Research Group**
 
 References
